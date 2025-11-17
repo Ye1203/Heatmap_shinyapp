@@ -4,7 +4,7 @@ This code uses shinyapp to generate heatmaps. It can use 09d data (from Waxman D
 
 This will generate a series of data, including heatmaps (original dimensions and print-fit dimensions), processed data, and more.
 
-For further information, please contact Bingtian Ye (btye@bu.edu), including how to build the environment with remv and how to run the content.
+For further information, please contact Bingtian Ye (btye@bu.edu), including how to build the environment with renv and how to run the content.
 
 ---
 
