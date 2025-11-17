@@ -1,6 +1,6 @@
 # Lamian Helper Package
 
-This code uses shinyapp to generate heatmaps. It can use 09d data (from Waxman Data), segex data (from Waxman Data), and other suitable data.
+This code uses shinyapp to generate heatmaps. It can use 09d data (from Waxman's Lab Data), segex data (from Waxman's Lab Data), and other suitable data.
 
 This will generate a series of data, including heatmaps (original dimensions and print-fit dimensions), processed data, and more.
 
